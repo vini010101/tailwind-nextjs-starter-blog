@@ -59,7 +59,7 @@ export default function Home({ posts }) {
                           className="bg-gradient-to-r from-blue-500 to-purple-500 bg-clip-text text-transparent hover:from-blue-600 hover:to-purple-600"
                           aria-label={`Read more: "${title}"`}
                         >
-                          Read more &rarr;
+                          Ler Mais &rarr;
                         </Link>
                       </div>
                     </div>
@@ -77,7 +77,7 @@ export default function Home({ posts }) {
             className="bg-gradient-to-r from-blue-500 to-purple-500 bg-clip-text text-transparent hover:from-blue-600 hover:to-purple-600"
             aria-label="All posts"
           >
-            All Posts &rarr;
+            Todos as noticias &rarr;
           </Link>
         </div>
       )}
